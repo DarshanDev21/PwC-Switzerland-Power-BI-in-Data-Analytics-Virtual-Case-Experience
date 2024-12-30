@@ -24,4 +24,11 @@ This dashboard was developed in response to a request from the telecom's Retenti
 <img src= "https://github.com/DarshanDev21/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/blob/main/Chrun_analysis%202.png" width="850" height="500"></img>
 <br> </br>
 <img src= "https://github.com/DarshanDev21/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/blob/main/Chrun_analysis%203.png" width="850" height="500"></img>
+## Diversity & Inclusion
+Focusing on the telecom client's goal of improving gender balance at the executive management level, this dashboard visualizes metrics related to diversity and inclusion, offering insights into current trends and areas for action.
+<br></br>
+<img src= "https://github.com/DarshanDev21/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/blob/main/Diversity%20%26%20Inclusion%201.png" width="850" height="500"></img>
+<img src= "https://github.com/DarshanDev21/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/blob/main/Diversity%20%26%20Inclusion%202.png" width="850" height="500"></img>
+<br></br>
+<img src= "https://github.com/DarshanDev21/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/blob/main/Diversity%20%26%20Inclusion%203.png" width="850" height="500"></img>
 
