@@ -14,3 +14,14 @@ Power BI Desktop is required to view and interact with the dashboards. If not al
 The .pbix files associated with each dashboard are hosted within this repository. After installing Power BI Desktop, download the .pbix files from the repository and open them with Power BI Desktop. The data sources are embedded within the files, eliminating the need for additional setup to explore the visualizations. Users can navigate through the dashboards using the tabs at the bottom of the Power BI interface to explore different visualizations and insights.
 To download the .pbix files, navigate to the folder in this repository where they are stored, select a file, and use the 'Download' button. Cloning or downloading the entire repository is an alternative method for accessing all files.
 # Dashboards and Visualizations!
+## Call Centre Trends
+the first dashboard provides a comprehensive view of call centre metrics, focusing on customer satisfaction, call volumes, and agent performance. It aids in identifying areas for improvement in call centre operations.
+<img src="https://github.com/DarshanDev21/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/blob/main/Call_Centre_Analysis%202.png" width="850" height="500"></img>
+## Customer Retention 
+This dashboard was developed in response to a request from the telecom's Retention Manager, showcasing key metrics related to customer loyalty and retention. It visualizes data to predict customer churn and identifies potential strategies to enhance customer retention. 
+<img src= "https://github.com/DarshanDev21/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/blob/main/Chrun_analysis%201.png" width="850" height="500"></img>
+<br> </br>
+<img src= "https://github.com/DarshanDev21/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/blob/main/Chrun_analysis%202.png" width="850" height="500"></img>
+<br> </br>
+<img src= "https://github.com/DarshanDev21/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/blob/main/Chrun_analysis%203.png" width="850" height="500"></img>
+
